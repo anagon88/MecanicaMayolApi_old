@@ -474,9 +474,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol,Api.csproj",
-      "projectName": "MecanicaMayol,Api",
-      "projectPath": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol,Api.csproj",
+      "projectUniqueName": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol.Api.csproj",
+      "projectName": "MecanicaMayol.Api",
+      "projectPath": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol.Api.csproj",
       "packagesPath": "C:\\Users\\Anagon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\obj\\",
       "projectStyle": "PackageReference",

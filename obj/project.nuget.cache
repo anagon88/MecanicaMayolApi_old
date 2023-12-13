@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BdAeoOEf/ahPybp7wjaJdupFIgL1fyxcfMSDtfd+ogfSIf33smahzbuWKXkI5r1Ii0Z34Xl+eL8rIweoSVdF+w==",
+  "dgSpecHash": "wxcfCpG8qU5RLxs4D8fJU6q+gExwHxJpFOYftdGMWli3qA1oZBOMU4vL8Qh8N0+rKUeXcNLgyEZBlRUpy3XnHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol,Api.csproj",
+  "projectFilePath": "C:\\Users\\Anagon\\source\\repos\\MecanicaMayol\\MecanicaMayol\\MecanicaMayol.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anagon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\Anagon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
